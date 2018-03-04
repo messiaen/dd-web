@@ -1,0 +1,298 @@
+.application--light {
+    background: #F5F5F5;
+}
+div.dd-article-content h1,h2,h3,h4,h5 {
+    font-family: 'Archivo Black', sans-serif;
+}
+div.dd-article-content p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12pt;
+}
+
+div.dd-article-content p strong {
+    font-weight: 700;
+}
+
+div.dd-article-content p em strong {
+    font-weight: 700;
+    font-style: italic;
+}
+
+div.dd-article-content p strong em {
+    font-weight: 700;
+    font-style: italic;
+}
+
+div.dd-article-content p {
+    font-size: 14px;
+    font-weight: 600;
+    text-justify: inter-word;
+}
+
+.dd-article-figure {
+    float: right;
+    margin: 8px;
+    display: inline-block;
+    max-height: 60%;
+    max-width: 60%;
+    position: relative;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.dd-article-figure img {
+    max-height: 100%;
+    max-width: 100%;
+    position: relative;
+}
+
+div.dd-article-content p figure {
+    float: right;
+    margin: 8px;
+    display: inline-block;
+    max-height: 60%;
+    max-width: 60%;
+    position: relative;
+}
+
+div.dd-article-content blockquote {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;
+    border-left: 5px solid #01014f;
+    padding: 0 0 0 10px;
+    margin-left: 12px;
+}
+
+div.dd-article-content blockquote p {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    color: #01014f;
+}
+
+div.dd-article-content p a {
+    font-style: normal;
+    color: slategray;
+}
+
+
+.dd-region-list-underline {
+    display: block;
+    height: 0;
+    border: 0;
+    border-top: 3px solid #666;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.dd-site-title-font {
+    font-family: 'Anton', sans-serif;
+}
+
+.dd-error-code {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 128pt;
+}
+
+.dd-error-message {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 18pt;
+}
+
+div.dd-article-content h1 {
+    font-size: 88px;
+}
+
+div.dd-article-content h2 {
+    font-size: 33px;
+}
+div.dd-article-content h3 {
+    font-size: 24px;
+}
+
+.dd-region-list {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 16pt;
+}
+.dd-side-date-string {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 16pt;
+}
+.dd-header-date-string {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 18pt;
+}
+
+@media (min-width: 1904px) {
+    div.dd-article-content h1 {
+        font-size: 88px;
+    }
+    div.dd-article-content h2 {
+        font-size: 34px;
+    }
+    div.dd-article-content h3 {
+        font-size: 24px;
+    }
+    .dd-region-list {
+        font-size: 16pt;
+    }
+    .dd-side-date-string {
+        font-size: 16pt;
+    }
+    .dd-header-date-string {
+        font-size: 16pt;
+    }
+    div.dd-article-content p {
+        font-size: 14pt;
+    }
+
+    div.dd-article-content blockquote p {
+        font-style: italic;
+        font-weight: 400;
+        font-size: 14pt;
+        color: #01014f;
+    }
+}
+
+@media (max-width: 1904px) and (min-width: 1264px) {
+    div.dd-article-content h1 {
+        font-size: 46px;
+    }
+    div.dd-article-content h2 {
+        font-size: 34px;
+    }
+    div.dd-article-content h3 {
+        font-size: 24px;
+    }
+    .dd-region-list {
+        font-size: 16pt;
+    }
+    .dd-side-date-string {
+        font-size: 16pt;
+    }
+    .dd-header-date-string {
+        font-size: 16pt;
+    }
+    div.dd-article-content p {
+        font-size: 12pt
+    }
+
+    div.dd-article-content blockquote p {
+        font-style: italic;
+        font-weight: 400;
+        font-size: 12pt;
+        color: #01014f;
+    }
+}
+
+@media (max-width: 1264px) and (min-width: 960px) {
+    div.dd-article-content h1 {
+        font-size: 38px;
+    }
+    div.dd-article-content h2 {
+        font-size: 28px;
+    }
+    div.dd-article-content h3 {
+        font-size: 18px;
+    }
+    .dd-region-list {
+        font-size: 14pt;
+    }
+    .dd-side-date-string {
+        font-size: 14pt;
+    }
+    .dd-header-date-string {
+        font-size: 14pt;
+    }
+    div.dd-article-content p {
+        font-size: 12pt
+    }
+
+    div.dd-article-content blockquote p {
+        font-style: italic;
+        font-weight: 400;
+        font-size: 12pt;
+        color: #01014f;
+    }
+}
+
+@media (max-width: 960px) and (min-width: 600px) {
+    div.dd-article-content h1 {
+        font-size: 32px;
+    }
+    div.dd-article-content h2 {
+        font-size: 24px;
+    }
+    div.dd-article-content h3 {
+        font-size: 14px;
+    }
+    .dd-region-list {
+        font-size: 12pt;
+    }
+    .dd-side-date-string {
+        font-size: 12pt;
+    }
+    .dd-header-date-string {
+        font-size: 12pt;
+    }
+    .dd-header-btn-date-string {
+        font-size: 8pt;
+    }
+    div.dd-article-content p {
+        font-size: 12pt
+    }
+
+    div.dd-article-content blockquote p {
+        font-style: italic;
+        font-weight: 400;
+        font-size: 12pt;
+        color: #01014f;
+    }
+}
+
+@media (max-width: 600px) {
+    div.dd-article-content h1 {
+        font-size: 32px;
+    }
+    div.dd-article-content h2 {
+        font-size: 24px;
+    }
+    div.dd-article-content h3 {
+        font-size: 14px;
+    }
+    .dd-region-list {
+        font-size: 12pt;
+    }
+    .dd-side-date-string {
+        font-size: 12pt;
+    }
+    .dd-header-date-string {
+        font-size: 10pt;
+    }
+    .dd-header-btn-date-string {
+        font-size: 8pt;
+    }
+    div.dd-article-content p {
+        font-size: 12pt
+    }
+    .dd-error-code {
+        font-size: 64pt;
+    }
+
+    .dd-error-message {
+        font-size: 10pt;
+    }
+
+    div.dd-article-content blockquote p {
+        font-style: italic;
+        font-weight: 400;
+        font-size: 10pt;
+        color: #01014f;
+    }
+}
+

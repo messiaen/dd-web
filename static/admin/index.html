@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Content Manager</title>
+
+  <!-- Include the styles for the Netlify CMS UI, after your own styles -->
+  <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.css"/>
+
+</head>
+<body>
+<!-- Include the script that builds the page and powers Netlify CMS -->
+<script src="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.js"></script>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<!--<script>-->
+  <!--CMS.registerEditorComponent({-->
+    <!--// Internal id of the component-->
+    <!--id: "stroyBlock",-->
+    <!--// Visible label-->
+    <!--label: function (obj) {-->
+      <!--return 'StoryBlock ' + obj.id-->
+    <!--},-->
+    <!--// Fields the user need to fill out when adding an instance of the component-->
+    <!--fields: [-->
+        <!--{name: 'id', label: 'Story title', widget: 'string'},-->
+        <!--{name: 'region', label: 'Region', widget: 'string'},-->
+        <!--{name: 'tags', label: 'Tags', widget: 'list'},-->
+        <!--{name: 'date', label: 'Date', widget: 'date'},-->
+        <!--{name: 'body', label: 'Body', widget: 'markdown'}-->
+    <!--],-->
+    <!--// Pattern to identify a block as being an instance of this component-->
+    <!--pattern: /^storyBlock: ({.*})$/,-->
+    <!--// Function to extract data elements from the regexp match-->
+    <!--fromBlock: function(match) {-->
+        <!--return JSON.parse(match[1]);-->
+    <!--},-->
+    <!--// Function to create a text block from an instance of this component-->
+    <!--toBlock: function(obj) {-->
+      <!--return 'storyBlock: ' + JSON.stringify(obj);-->
+    <!--},-->
+    <!--// Preview output for this component. Can either be a string or a React component-->
+    <!--// (component gives better render performance)-->
+    <!--toPreview: function(obj) {-->
+      <!--return (obj.body);-->
+    <!--}-->
+  <!--});-->
+<!--</script>-->
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "title": "First issue",
+  "date": "2018-03-02",
+  "stories": [
+    {
+      "body": "# The first story\nAnd the first content",
+      "storyDate": "2018-03-08",
+      "region": "Iraq",
+      "tags": [
+        "Anbar",
+        "news"
+      ]
+    },
+    {
+      "body": "# The second story\nAnd the first content",
+      "storyDate": "2018-03-08",
+      "region": "Anbar",
+      "tags": [
+        "Anbar",
+        "news"
+      ]
+    },
+    {
+      "body": "# The third story\nAnd the first content",
+      "storyDate": "2018-03-08",
+      "region": "Iraq",
+      "tags": [
+        "Anbar",
+        "news"
+      ]
+    },
+    {
+      "body": "# The forth story\nAnd the first content",
+      "storyDate": "2018-03-08",
+      "region": "Iraq",
+      "tags": [
+        "Anbar",
+        "news"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "data": {
+    "allDisplayRegions": [
+      {
+        "region": "IRAQ_ANBAR",
+        "regionTags": [
+          "Iraq",
+          "Anbar"
+        ],
+        "displayName": "Iraq, Anbar"
+      },
+      {
+        "region": "Iraq_baghdad_security_related_incidents",
+        "regionTags": [
+          "Iraq",
+          "Baghdad",
+          "Security-related"
+        ],
+        "displayName": "Iraq, Baghdad, Security-related"
+      },
+      {
+        "region": "IRAQ_ANBAR_FALLUJA",
+        "regionTags": [
+          "Iraq",
+          "Anbar",
+          "Falluja"
+        ],
+        "displayName": "Iraq, Anbar, Falluja"
+      },
+      {
+        "region": "IRAQ_ANBAR_RAMADI",
+        "regionTags": [
+          "Iraq",
+          "Anbar",
+          "Ramadi"
+        ],
+        "displayName": "Iraq, Anbar, Ramadi"
+      },
+      {
+        "region": "IRAQ",
+        "regionTags": [
+          "Iraq"
+        ],
+        "displayName": "Iraq"
+      },
+      {
+        "region": "IRAQ_ANBAR_HIT_OR_HADITHA",
+        "regionTags": [
+          "Iraq",
+          "Anbar",
+          "Hit/Haditha"
+        ],
+        "displayName": "Iraq, Anbar, Hit/Haditha"
+      },
+      {
+        "region": "IRAQ_ANBAR_ANAH_OR_RAWA",
+        "regionTags": [
+          "Iraq",
+          "Anbar",
+          "Anah (including Rawa)"
+        ],
+        "displayName": "Iraq, Anbar, Anah (including Rawa)"
+      },
+      {
+        "region": "IRAQ_ANBAR_ANAH",
+        "regionTags": [
+          "Iraq",
+          "Anbar",
+          "Anah"
+        ],
+        "displayName": "Iraq, Anbar, Anah"
+      },
+      {
+        "region": "IRAQ_ANBAR_RAWA",
+        "regionTags": [
+          "Iraq",
+          "Anbar",
+          "Rawa"
+        ],
+        "displayName": "Iraq, Anbar, Rawa"
+      },
+      {
+        "region": "IRAQ_ANBAR_AL_QAIM",
+        "regionTags": [
+          "Iraq",
+          "Anbar",
+          "Al-Qa'im"
+        ],
+        "displayName": "Iraq, Anbar, Al-Qa'im"
+      },
+      {
+        "region": "IRAQ_ANBAR_RUTBA",
+        "regionTags": [
+          "Iraq",
+          "Anbar",
+          "Rutba"
+        ],
+        "displayName": "Iraq, Anbar, Rutba"
+      },
+      {
+        "region": "IRAQ_SALAHUDDIN",
+        "regionTags": [
+          "Iraq",
+          "Salahuddin"
+        ],
+        "displayName": "Iraq, Salahuddin"
+      },
+      {
+        "region": "IRAQ_DIYALA",
+        "regionTags": [
+          "Iraq",
+          "Diyala"
+        ],
+        "displayName": "Iraq, Diyala"
+      },
+      {
+        "region": "IRAQ_KIRKUK",
+        "regionTags": [
+          "Iraq",
+          "Kirkuk"
+        ],
+        "displayName": "Iraq, Kirkuk"
+      },
+      {
+        "region": "IRAQ_KIRKUK_OR_DIBIS",
+        "regionTags": [
+          "Iraq",
+          "Kirkuk/Dibis"
+        ],
+        "displayName": "Iraq, Kirkuk/Dibis"
+      },
+      {
+        "region": "IRAQ_KIRKUK_KIRKUK_CITY",
+        "regionTags": [
+          "Iraq",
+          "Kirkuk",
+          "Kirkuk City"
+        ],
+        "displayName": "Iraq, Kirkuk, Kirkuk City"
+      },
+      {
+        "region": "Iraq_kirkuk_hawija",
+        "regionTags": [
+          "Iraq",
+          "Kirkuk",
+          "Hawija"
+        ],
+        "displayName": "Iraq, Kirkuk, Hawija"
+      },
+      {
+        "region": "IRAQ_NINEWA",
+        "regionTags": [
+          "Iraq",
+          "Ninewa"
+        ],
+        "displayName": "Iraq, Ninewa"
+      },
+      {
+        "region": "IRAQ_NINEWA_NINEVEH_PLAIN",
+        "regionTags": [
+          "Iraq",
+          "Ninewa",
+          "Nineveh Plain"
+        ],
+        "displayName": "Iraq, Ninewa, Nineveh Plain"
+      },
+      {
+        "region": "IRAQ_NINEWA_MOSUL",
+        "regionTags": [
+          "Iraq",
+          "Ninewa",
+          "Mosul"
+        ],
+        "displayName": "Iraq, Ninewa, Mosul"
+      },
+      {
+        "region": "IRAQ_WESTERN_NINEWA",
+        "regionTags": [
+          "Iraq",
+          "Western Ninewa"
+        ],
+        "displayName": "Iraq, Western Ninewa"
+      },
+      {
+        "region": "IRAQ_SOUTHERN_IRAQ",
+        "regionTags": [
+          "Southern Iraq"
+        ],
+        "displayName": "Southern Iraq"
+      },
+      {
+        "region": "KURDISTAN_NEWS",
+        "regionTags": [
+          "Iraq",
+          "Kurdistan"
+        ],
+        "displayName": "Iraq, Kurdistan"
+      },
+      {
+        "region": "IRAQ_KURDISTAN_ERBIL_OR_DAHUK",
+        "regionTags": [
+          "Iraq",
+          "Kurdistan",
+          "Erbil/Dahuk"
+        ],
+        "displayName": "Iraq, Kurdistan, Erbil/Dahuk"
+      },
+      {
+        "region": "IRAQ_KURDISTAN_SULEYMANIYA_OR_HALABJA",
+        "regionTags": [
+          "Iraq",
+          "Kurdistan",
+          "Suleimaniya/Halbja"
+        ],
+        "displayName": "Iraq, Kurdistan, Suleimaniya/Halbja"
+      },
+      {
+        "region": "Iraq_kurdistan",
+        "regionTags": [
+          "Iraq",
+          "Kurdistan"
+        ],
+        "displayName": "Iraq, Kurdistan"
+      },
+      {
+        "region": "Iraq_kurdistan_suleimaniya_halabja",
+        "regionTags": [
+          "Iraq",
+          "Kurdistan",
+          "Suleimaniya/Halabja"
+        ],
+        "displayName": "Iraq, Kurdistan, Suleimaniya/Halabja"
+      },
+      {
+        "region": "SYRIA",
+        "regionTags": [
+          "Syria"
+        ],
+        "displayName": "Syria"
+      },
+      {
+        "region": "SYRIA_NORTHEAST",
+        "regionTags": [
+          "Syria",
+          "Northeast"
+        ],
+        "displayName": "Syria, Northeast"
+      },
+      {
+        "region": "SYRIA_NORTHEAST_HASAKA",
+        "regionTags": [
+          "Syria",
+          "Northeast",
+          "Hasaka"
+        ],
+        "displayName": "Syria, Northeast, Hasaka"
+      },
+      {
+        "region": "Syria_northeast_raqqa",
+        "regionTags": [
+          "Syria",
+          "Northeast",
+          "Raqqa"
+        ],
+        "displayName": "Syria, Northeast, Raqqa"
+      },
+      {
+        "region": "SYRIA_NORTHWEST",
+        "regionTags": [
+          "Syria",
+          "Northwest"
+        ],
+        "displayName": "Syria, Northwest"
+      },
+      {
+        "region": "SYRIA_NORTHWEST_ALEPPO_IDLIB",
+        "regionTags": [
+          "Syria",
+          "Northwest",
+          "Aleppo/Idlib"
+        ],
+        "displayName": "Syria, Northwest, Aleppo/Idlib"
+      },
+      {
+        "region": "Syria_northwest_afrin_azaz",
+        "regionTags": [
+          "Syria",
+          "Northwest",
+          "Afrin/Azaz"
+        ],
+        "displayName": "Syria, Northwest, Afrin/Azaz"
+      },
+      {
+        "region": "SYRIA_NORTHWEST_AL_BAB_MANBIJ_JARABULUS",
+        "regionTags": [
+          "Syria",
+          "Northwest",
+          "Al-Bab/Manbij/Jarabulus"
+        ],
+        "displayName": "Syria, Northwest, Al-Bab/Manbij/Jarabulus"
+      },
+      {
+        "region": "SYRIA_CENTRAL_AND_WEST",
+        "regionTags": [
+          "Syria",
+          "Central and West"
+        ],
+        "displayName": "Syria, Central and West"
+      },
+      {
+        "region": "SYRIA_CENTRAL_AND_WEST_HAMA",
+        "regionTags": [
+          "Syria",
+          "Central and West",
+          "Hama"
+        ],
+        "displayName": "Syria, Central and West, Hama"
+      },
+      {
+        "region": "SYRIA_CENTRAL_AND_WEST_HOMS",
+        "regionTags": [
+          "Syria",
+          "Central and West",
+          "Homs"
+        ],
+        "displayName": "Syria, Central and West, Homs"
+      },
+      {
+        "region": "SYRIA_EAST",
+        "regionTags": [
+          "Syria",
+          "East"
+        ],
+        "displayName": "Syria, East"
+      },
+      {
+        "region": "SYRIA_EAST_DEIR_EZ_ZOR",
+        "regionTags": [
+          "Syria",
+          "East",
+          "Deir Ez-Zor"
+        ],
+        "displayName": "Syria, East, Deir Ez-Zor"
+      },
+      {
+        "region": "SYRIA_EAST_MAYADIN",
+        "regionTags": [
+          "Syria",
+          "East",
+          "Mayadin"
+        ],
+        "displayName": "Syria, East, Mayadin"
+      },
+      {
+        "region": "SYRIA_EAST_ALBU_KAMAL",
+        "regionTags": [
+          "Syria",
+          "East",
+          "Albu Kamal"
+        ],
+        "displayName": "Syria, East, Albu Kamal"
+      },
+      {
+        "region": "SYRIA_SOUTH",
+        "regionTags": [
+          "Syria",
+          "South"
+        ],
+        "displayName": "Syria, South"
+      },
+      {
+        "region": "SYRIA_SOUTH_DAMASCUS_RIF_DAMASHQ",
+        "regionTags": [
+          "Syria",
+          "South",
+          "Damascus/Rif Damashq"
+        ],
+        "displayName": "Syria, South, Damascus/Rif Damashq"
+      },
+      {
+        "region": "SYRIA_SOUTH_DARAA",
+        "regionTags": [
+          "Syria",
+          "South",
+          "Daraa"
+        ],
+        "displayName": "Syria, South, Daraa"
+      },
+      {
+        "region": "SYRIA_SOUTH_SUWAYDA",
+        "regionTags": [
+          "Syria",
+          "South",
+          "Suwayda"
+        ],
+        "displayName": "Syria, South, Suwayda"
+      },
+      {
+        "region": "OTHER_COUNTRIES",
+        "regionTags": [
+          "Other Countries"
+        ],
+        "displayName": "Other Countries"
+      },
+      {
+        "region": "NEIGHBORING_COUNTRIES",
+        "regionTags": [
+          "Neighboring Countries"
+        ],
+        "displayName": "Neighboring Countries"
+      },
+      {
+        "region": "IRAN",
+        "regionTags": [
+          "Iran"
+        ],
+        "displayName": "Iran"
+      },
+      {
+        "region": "SAUDI_ARABIA",
+        "regionTags": [
+          "Saudi Arabia"
+        ],
+        "displayName": "Saudi Arabia"
+      },
+      {
+        "region": "JORDAN",
+        "regionTags": [
+          "Jordan"
+        ],
+        "displayName": "Jordan"
+      },
+      {
+        "region": "LEBANON",
+        "regionTags": [
+          "Lebanon"
+        ],
+        "displayName": "Lebanon"
+      },
+      {
+        "region": "NORTH_AFRICA",
+        "regionTags": [
+          "North Africa"
+        ],
+        "displayName": "North Africa"
+      },
+      {
+        "region": "EGYPT",
+        "regionTags": [
+          "Egypt"
+        ],
+        "displayName": "Egypt"
+      },
+      {
+        "region": "LIBYA",
+        "regionTags": [
+          "Libya"
+        ],
+        "displayName": "Libya"
+      },
+      {
+        "region": "TUNISIA",
+        "regionTags": [
+          "Tunisia"
+        ],
+        "displayName": "Tunisia"
+      },
+      {
+        "region": "US",
+        "regionTags": [
+          "U.S."
+        ],
+        "displayName": "U.S."
+      },
+      {
+        "region": "EUROPE",
+        "regionTags": [
+          "Europe"
+        ],
+        "displayName": "Europe"
+      },
+      {
+        "region": "AFRICA",
+        "regionTags": [
+          "Africa"
+        ],
+        "displayName": "Africa"
+      },
+      {
+        "region": "ASIA",
+        "regionTags": [
+          "Asia"
+        ],
+        "displayName": "Asia"
+      },
+      {
+        "region": "AFGHANISTAN",
+        "regionTags": [
+          "Afghanistan"
+        ],
+        "displayName": "Afghanistan"
+      },
+      {
+        "region": "SOCIAL_MEDIA",
+        "regionTags": [
+          "Social Media"
+        ],
+        "displayName": "Social Media"
+      },
+      {
+        "region": "VIDEOS_OF_THE_DAY",
+        "regionTags": [
+          "Videos of the Day"
+        ],
+        "displayName": "Videos of the Day"
+      },
+      {
+        "region": "VIDEOS_OF_THE_DAY_IRAQ",
+        "regionTags": [
+          "Iraq",
+          "Videos of the Day"
+        ],
+        "displayName": "Iraq, Videos of the Day"
+      },
+      {
+        "region": "VIDEOS_OF_THE_DAY_SYRIA",
+        "regionTags": [
+          "Syria",
+          "Videos of the Day"
+        ],
+        "displayName": "Syria, Videos of the Day"
+      },
+      {
+        "region": "Daesh_media",
+        "regionTags": [
+          "Daesh Media"
+        ],
+        "displayName": "Daesh Media"
+      },
+      {
+        "region": "TURKEY",
+        "regionTags": [
+          "Turkey"
+        ],
+        "displayName": "Turkey"
+      },
+      {
+        "region": "IRAQ_BAGHDAD",
+        "regionTags": [
+          "Iraq",
+          "Baghdad"
+        ],
+        "displayName": "Iraq, Baghdad"
+      }
+    ]
+  }
+}
