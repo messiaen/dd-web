@@ -7,14 +7,14 @@ const resolve = (dir) => require('path').join(__dirname, dir)
 
 const readIssuesFromFiles = () => {
   let issuesDir = path.join(__dirname, 'content', 'issues')
-  console.log('Dirname: ' + issuesDir)
+  // console.log('Dirname: ' + issuesDir)
   let issues = []
   let files = fs.readdirSync(issuesDir)
   for (let i = 0; i < files.length; ++i) {
     if (path.extname(files[i]) !== '.json') {
       continue
     }
-    console.log('Adding issue from ' + files[i])
+    // console.log('Adding issue from ' + files[i])
     let obj = JSON.parse(fs.readFileSync(path.join(issuesDir, files[i])))
     issues.push(obj)
   }
@@ -97,7 +97,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
-    analyze: true,
+    analyze: false,
     babel: {
       plugins: [
         ["transform-imports", {
